@@ -1,2 +1,2 @@
 // JavaScript source code
-console.log("Hello, Stasondria");
+console.log('Hello, Stasondria');
